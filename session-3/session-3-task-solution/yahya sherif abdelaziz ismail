@@ -1,0 +1,18 @@
+Steps: 
+Int “x”
+Int “y”
+Int “z”
+Compare between “z” & “y” 
+Take the bigger one of them 
+Take it and compare it with “x”
+  
+
+Input : score
+Output : exam result
+Steps: 
+•	The minimum score to success is 50% 
+•	>50% means that he pass
+•	<50% means that he not pass
+•	=50% means that he pass
+
+
